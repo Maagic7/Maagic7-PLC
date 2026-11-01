@@ -54,11 +54,11 @@ Diese Bibliothek enthält professionelle Open-Source-Industriesoftware und wird 
 ## 🛠️ Integration and Hardware Compatibility
 
 ### 🇬🇧 English
-* **Supported Frameworks:** Siemens Simatic Step 7 (Classic V5.x) and TIA Portal (all versions).
+* **Supported Frameworks:** Siemens Simatic Step 7 (Classic V5.x) 
 * **Hardware Platforms:** S7-300, S7-400, VIPA 300S/SL, Yaskawa SLIO, and compatible WinAC software controllers.
 
 ### 🇩🇪 Deutsch
-* **Unterstützte Software:** Siemens Simatic Step 7 (Classic V5.x) und TIA Portal (alle Versionen).
+* **Unterstützte Software:** Siemens Simatic Step 7 (Classic V5.x) 
 * **Hardware-Plattformen:** S7-300, S7-400, VIPA 300S/SL, Yaskawa SLIO sowie kompatible WinAC Software-SPS-Systeme.
 
 ---
