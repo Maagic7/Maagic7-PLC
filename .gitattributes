@@ -1,0 +1,9 @@
+# Force GitHub to recognize Siemens Step7 / TIA Portal source exports
+*.scl linguist-language=Structured_Text
+*.awl linguist-language=Structured_Text
+*.source linguist-language=Structured_Text
+*.txt linguist-language=Structured_Text
+
+# Tell GitHub to ignore heavy binary project blocks for language statistics
+*.ap* linguist-binary=true
+*.s7p linguist-binary=true
