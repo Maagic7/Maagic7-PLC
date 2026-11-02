@@ -1,8 +1,8 @@
 # Maagic7 – Industrial Step 7 Programming Library for Simatic S7-300/400
 
-A field-proven, high-performance PLC programming library developed since 2003 and actively deployed across large-scale industrial projects. Highly optimized for Simatic S7-300/400, VIPA, and Yaskawa hardware environments running Classic Step 7 or TIA Portal.
+A field-proven, high-performance PLC programming library developed since 2003 and actively deployed across large-scale industrial projects. Highly optimized for Simatic S7-300/400, VIPA, and Yaskawa hardware environments running Classic Step 7.
 
-Eine praxiserprobte, hochperformante SPS-Programmierbibliothek, die seit 2003 kontinuierlich weiterentwickelt und in industriellen Großprojekten eingesetzt wird. Optimiert für Simatic S7-300/400, VIPA und Yaskawa Steuerungen unter Classic Step 7 oder im TIA Portal.
+Eine praxiserprobte, hochperformante SPS-Programmierbibliothek, die seit 2003 kontinuierlich weiterentwickelt und in industriellen Großprojekten eingesetzt wird. Optimiert für Simatic S7-300/400, VIPA und Yaskawa Steuerungen unter Classic Step 7.
 
 ---
 
